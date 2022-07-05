@@ -1,4 +1,4 @@
 # TestesJUnit
 TestesJUnit
 
-Aprendendo sobre testes automatizados de desenvolvimento.
+Aprendendo sobre testes automatizados de desenvolvimento TestesJUnit.
